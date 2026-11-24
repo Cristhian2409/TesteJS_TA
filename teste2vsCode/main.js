@@ -1,0 +1,1 @@
+console.log("Teste no VS Code do Git");
